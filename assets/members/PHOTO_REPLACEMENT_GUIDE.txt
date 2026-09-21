@@ -1,0 +1,16 @@
+現任成員本地頭貼檔名對照（請用實際照片覆蓋同名 PNG，即不需修改程式）：
+
+陳亭羽 -> chen_ting_yu.png
+顏家珣 -> yen_chia_hsun.png
+黃浩宸 -> huang_hao_chen.png
+Vidhya Nataraj -> vidhya_nataraj.png
+柯韋安 -> ko_wei_an.png
+楊舒羽 -> yang_shu_yu.png
+陳俞安 -> chen_yu_an.png
+李懿修 -> lee_yi_hsiu.png
+郭映妤 -> kuo_ying_yu.png
+陳婷慧 -> chen_ting_hui.png
+廖偉菖 -> liao_wei_chang.png
+
+建議照片比例：4:5 或 1:1，至少 600px 寬。
+正式上線前請將這些 placeholder PNG 覆蓋成真實頭貼。
